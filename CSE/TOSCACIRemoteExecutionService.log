@@ -1,0 +1,53 @@
+2019-11-19 17:25:59,226 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 1. atempt.
+2019-11-19 17:25:59,301 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost opened.
+2019-11-19 17:25:59,303 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program -  Server is up and running...
+2019-11-19 17:25:59,303 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - http://localhost:8732/TOSCARemoteExecutionService/
+2019-11-19 17:25:59,304 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithConfig(System.String, System.String, System.String, System.String)
+2019-11-19 17:25:59,304 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithoutConfig(System.String, System.String, System.String)
+2019-11-19 17:25:59,304 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithConfig(System.String, System.String, System.String)
+2019-11-19 17:25:59,304 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithoutConfig(System.String, System.String)
+2019-11-19 17:25:59,304 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - TOSCAContinuousIntegration.TOSCACIExecution.CIExecutionInfo GetExecutionInfo(Byte[])
+2019-11-19 17:25:59,304 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - Void StopExecution(System.Guid)
+2019-11-20 11:24:37,436 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 1. atempt.
+2019-11-20 11:30:42,003 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 1. atempt.
+2019-11-20 11:30:42,068 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost opened.
+2019-11-20 11:30:42,070 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program -  Server is up and running...
+2019-11-20 11:30:42,071 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - http://localhost/
+2019-11-20 11:30:42,071 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithConfig(System.String, System.String, System.String, System.String)
+2019-11-20 11:30:42,071 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithoutConfig(System.String, System.String, System.String)
+2019-11-20 11:30:42,071 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithConfig(System.String, System.String, System.String)
+2019-11-20 11:30:42,071 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithoutConfig(System.String, System.String)
+2019-11-20 11:30:42,071 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - TOSCAContinuousIntegration.TOSCACIExecution.CIExecutionInfo GetExecutionInfo(Byte[])
+2019-11-20 11:30:42,071 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - Void StopExecution(System.Guid)
+2019-11-21 16:49:17,147 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 1. atempt.
+2019-11-21 16:49:17,314 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost opened.
+2019-11-21 16:49:17,317 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program -  Server is up and running...
+2019-11-21 16:49:17,317 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - http://localhost/
+2019-11-21 16:49:17,317 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithConfig(System.String, System.String, System.String, System.String)
+2019-11-21 16:49:17,317 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithoutConfig(System.String, System.String, System.String)
+2019-11-21 16:49:17,317 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithConfig(System.String, System.String, System.String)
+2019-11-21 16:49:17,317 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithoutConfig(System.String, System.String)
+2019-11-21 16:49:17,317 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - TOSCAContinuousIntegration.TOSCACIExecution.CIExecutionInfo GetExecutionInfo(Byte[])
+2019-11-21 16:49:17,317 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - Void StopExecution(System.Guid)
+2019-11-21 16:57:48,240 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Void StartService() Recovery did not work. Closing Service.
+2019-11-21 16:58:01,084 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 1. atempt.
+2019-11-21 16:58:01,148 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost opened.
+2019-11-21 16:58:01,150 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program -  Server is up and running...
+2019-11-21 16:58:01,151 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - http://localhost/
+2019-11-21 16:58:01,151 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithConfig(System.String, System.String, System.String, System.String)
+2019-11-21 16:58:01,151 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithoutConfig(System.String, System.String, System.String)
+2019-11-21 16:58:01,151 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithConfig(System.String, System.String, System.String)
+2019-11-21 16:58:01,151 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithoutConfig(System.String, System.String)
+2019-11-21 16:58:01,151 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - TOSCAContinuousIntegration.TOSCACIExecution.CIExecutionInfo GetExecutionInfo(Byte[])
+2019-11-21 16:58:01,151 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - Void StopExecution(System.Guid)
+2019-11-21 16:58:13,275 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Void StartService() Recovery did not work. Closing Service.
+2019-11-21 16:58:20,918 [1] ERROR TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Try to restart: 1. atempt.
+2019-11-21 16:58:20,981 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program - Servicehost opened.
+2019-11-21 16:58:20,983 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program -  Server is up and running...
+2019-11-21 16:58:20,983 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - http://localhost/
+2019-11-21 16:58:20,984 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithConfig(System.String, System.String, System.String, System.String)
+2019-11-21 16:58:20,984 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.String ExecuteWithoutConfig(System.String, System.String, System.String)
+2019-11-21 16:58:20,984 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithConfig(System.String, System.String, System.String)
+2019-11-21 16:58:20,984 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - System.Guid StartExecuteWithoutConfig(System.String, System.String)
+2019-11-21 16:58:20,984 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - TOSCAContinuousIntegration.TOSCACIExecution.CIExecutionInfo GetExecutionInfo(Byte[])
+2019-11-21 16:58:20,985 [1] INFO  TOSCAContinuousIntegration.TOSCACIRemoteExecutionService.Program+<>c - Void StopExecution(System.Guid)
